@@ -22,6 +22,7 @@ What's Here
     SE.
 *   :doc:`specifications` - Contains specification information for the HUNTER SE and related
     hardware.
+*   :doc:`downloads` - Downloadable content related to the HUNTER SE.
 
 Table of Contents:
 ==================
@@ -33,3 +34,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
