@@ -6,7 +6,7 @@ AgileX HUNTER SE
     :width: 400px
     :align: center
 
-The AgileX HUNTER SE is an Ackermann front steering drive-by-wire chassis designed for the
+The AgileX Robotics HUNTER SE is an Ackermann front steering drive-by-wire chassis designed for the
 challenging conditions and speed requirements of urban roads. It features an ultra-compact design
 with speeds of 4.8m/s, and a max climbing grade of 30°. Thanks to its modular design and standard
 CAN interface, users can easily install and expand various autonomous system components to
